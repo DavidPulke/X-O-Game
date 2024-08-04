@@ -6,10 +6,16 @@
 
 body {
     background: linear-gradient(180deg, yellow 0%, orange 100%);
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    border-bottom: 2px solid #00ff80;
+}
+
+#about-Body {
     width: 100%;
     height: 100%;
     overflow-x: hidden;
-    border-bottom: 2px solid #00ff80;
 }
 
 header {
