@@ -6,7 +6,6 @@ let board = ['', '', '', '', '', '', '', '', ''];
 
 function addValue(button) {
     const index = button.id.replace('box', '') - 1;
-    console.log(index);
     if (board[index] === '') {
         board[index] = value;
         button.innerText = value;
