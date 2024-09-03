@@ -24,4 +24,4 @@ cd X-O-Game
 
 ![X-Oexample](https://github.com/user-attachments/assets/eb51db00-eaaa-48e2-ba3d-6e52e11cd5ee)
 
-צילום של המשחק: (DavidPolak)
+  צילום של המשחק: (DavidPolak)
