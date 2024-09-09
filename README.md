@@ -1,38 +1,38 @@
-Tic-Tac-Toe Description:  
+## Tic-Tac-Toe Description:  
 
-This is a Tic-Tac-Toe game that allows two players to play against each other on the same computer. The game is built using JavaScript and features a simple and user-friendly interface.
+- This is a Tic-Tac-Toe game that allows two players to play against each other on the same computer. The game is built using JavaScript and features a simple and user-friendly interface.
 
-Live Project Link: https://davidpulke.github.io/X-O-Game/
+## Live Project Link: https://davidpulke.github.io/X-O-Game/
 
-Main Features:
+## Main Features:
 
-Two-Player Game: Two players can compete against each other on the same computer.
+- Two-Player Game: Two players can compete against each other on the same computer.
 
-Clear and Simple Interface: An accessible and inviting user interface.
+- Clear and Simple Interface: An accessible and inviting user interface.
 
-Win Detection: Automatic detection of a win, loss, or tie.
+- Win Detection: Automatic detection of a win, loss, or tie.
 
-Installation and Local Run:
+## Installation and Local Run:
 
-Clone the repository:
+- Clone the repository:
 
-bash
+- bash
 
-Copy code
+- Copy code
 
-git clone https://github.com/username/X-O-Game.git
+- git clone https://github.com/username/X-O-Game.git
 
-Navigate to the folder:
+## Navigate to the folder:
 
-bash
+- bash
 
-Copy code
+- Copy code
 
-cd X-O-Game
+- cd X-O-Game
 
-Open the file:
+## Open the file:
 
-Open index.html in your preferred browser.
+- Open index.html in your preferred browser.
 
 
 
